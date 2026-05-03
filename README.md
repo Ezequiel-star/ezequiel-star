@@ -1,16 +1,72 @@
-## Hi there 👋
+## # Olá 👋, eu sou o Ezequiel
 
-<!--
-**Ezequiel-star/ezequiel-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Estudante de Engenharia de Software | JavaScript, Python & Java**  
+🇧🇷 Mauá, São Paulo
 
-Here are some ideas to get you started:
+Estou em transição de carreira, focando em me tornar um desenvolvedor **Full-Stack**. Atualmente, dedico meus estudos à arquitetura de sistemas, códigos limpos e soluções eficientes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Onde me encontrar
+
+<p align="left">
+  <a href="https://github.com/Ezequiel-estrela">
+    <img src="https://img.shields.io/badge/GitHub-Ezequiel--estrela-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/ezequiel_silva_oliveira">
+    <img src="https://img.shields.io/badge/Instagram-@ezequiel__silva__oliveira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧠 O que estou estudando
+
+-   🏗️ Engenharia de Software (UNINTER)
+-   ☕ Java & Angular para aplicações robustas
+-   🐍 Automações com Python
+-   🌐 Desenvolvimento Web (HTML, CSS, JavaScript)
+-   📊 Banco de Dados (Relacionais e NoSQL)
+-   🇺🇸 Inglês (Wizard W2)
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend & Backend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### Ferramentas & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Minhas Estatísticas
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-estrela&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-estrela&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Filosofia
+
+> _"O aprendizado contínuo é a única ferramenta capaz de transformar código em soluções reais."_
+
+---
+
+🤝 Aberto a colaborações em projetos de código aberto e parcerias de estudo!
