@@ -1,20 +1,23 @@
 # Olá 👋, eu sou o Ezequiel
 
-🚀 **Estudante de Engenharia de Software | JavaScript, Python & Java**  
+🚀 **Estudante de Engenharia de Software (UNINTER) | JavaScript, Python & Java**
 🇧🇷 Mauá, São Paulo
 
-Estou em transição de carreira, focando em me tornar um desenvolvedor **Full-Stack**. Atualmente, dedico meus estudos à arquitetura de sistemas, códigos limpos e soluções eficientes.
+Estou em transição de carreira (atualmente trabalhando como balconista de açougue) e me dedicando ao desenvolvimento **Full-Stack**. Foco em arquitetura de sistemas, código limpo e soluções escaláveis.
 
 ---
 
 ## 🌐 Onde me encontrar
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/ezequiel-da-silva-oliveira">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/Ezequiel-estrela">
-    <img src="https://img.shields.io/badge/GitHub-Ezequiel--estrela-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://instagram.com/ezequiel_silva_oliveira">
-    <img src="https://img.shields.io/badge/Instagram-@ezequiel__silva__oliveira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -22,12 +25,10 @@ Estou em transição de carreira, focando em me tornar um desenvolvedor **Full-S
 
 ## 🧠 O que estou estudando
 
--   🏗️ Engenharia de Software (UNINTER)
--   ☕ Java & Angular para aplicações robustas
--   🐍 Automações com Python
--   🌐 Desenvolvimento Web (HTML, CSS, JavaScript)
--   📊 Banco de Dados (Relacionais e NoSQL)
--   🇺🇸 Inglês (Wizard W2)
+* **Formação Acadêmica**: Engenharia de Software na UNINTER.
+* **Tecnologias**: Java, Angular, JavaScript e Python.
+* **Idiomas**: Inglês na Wizard (Nível W2).
+* **Bancos de Dados**: Explorando modelos relacionais (MySQL) e NoSQL (MongoDB, Neo4j).
 
 ---
 
@@ -38,8 +39,6 @@ Estou em transição de carreira, focando em me tornar um desenvolvedor **Full-S
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -50,18 +49,13 @@ Estou em transição de carreira, focando em me tornar um desenvolvedor **Full-S
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Filosofia
 
-> _"O aprendizado contínuo é a única ferramenta capaz de transformar código em soluções reais."_
+> *"O aprendizado contínuo é a única ferramenta capaz de transformar código em soluções reais."*
 
 ---
-
-## 📂 Projetos e Estudos
-
-No momento, estou me dedicando a criar e organizar meus primeiros repositórios de projetos da faculdade (Uninter) e estudos pessoais. Em breve, você poderá conferi-los por aqui!
 
 🤝 Aberto a colaborações em projetos de código aberto e parcerias de estudo!
