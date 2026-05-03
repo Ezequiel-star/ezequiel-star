@@ -10,7 +10,7 @@ Atualmente trabalho como balconista de açougue e estou em plena transição de 
 ## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ezequiel-da-silva-oliveira">
+  <a href="https://www.linkedin.com/in/ezequiel-da-silva-oliveira-427749241">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Ezequiel-estrela">
