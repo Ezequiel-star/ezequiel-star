@@ -1,9 +1,9 @@
 # Olá 👋, eu sou o Ezequiel
 
-🚀 **Estudante de Engenharia de Software (UNINTER) | JavaScript, Python & Java**
+🚀 **Estudante de Engenharia de Software | JavaScript, Python & Java**  
 🇧🇷 Mauá, São Paulo
 
-Estou em transição de carreira (atualmente trabalhando como balconista de açougue) e me dedicando ao desenvolvimento **Full-Stack**. Foco em arquitetura de sistemas, código limpo e soluções escaláveis.
+Atualmente trabalho como balconista de açougue e estou em plena transição de carreira para a área de tecnologia, focando em me tornar um desenvolvedor **Full-Stack**. 
 
 ---
 
@@ -25,10 +25,12 @@ Estou em transição de carreira (atualmente trabalhando como balconista de aço
 
 ## 🧠 O que estou estudando
 
-* **Formação Acadêmica**: Engenharia de Software na UNINTER.
-* **Tecnologias**: Java, Angular, JavaScript e Python.
-* **Idiomas**: Inglês na Wizard (Nível W2).
-* **Bancos de Dados**: Explorando modelos relacionais (MySQL) e NoSQL (MongoDB, Neo4j).
+- 🏗️ Engenharia de Software (UNINTER)
+- ☕ Java & Angular para aplicações robustas
+- 🐍 Automações com Python
+- 🌐 Desenvolvimento Web (HTML, CSS, JavaScript)
+- 📊 Banco de Dados (Relacionais e NoSQL)
+- 🇺🇸 Inglês (Wizard W2)
 
 ---
 
@@ -49,12 +51,13 @@ Estou em transição de carreira (atualmente trabalhando como balconista de aço
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ## 🚀 Filosofia
 
-> *"O aprendizado contínuo é a única ferramenta capaz de transformar código em soluções reais."*
+> _"O aprendizado contínuo é a única ferramenta capaz de transformar código em soluções reais."_
 
 ---
 
