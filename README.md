@@ -53,12 +53,15 @@ Estou em transição de carreira, focando em me tornar um desenvolvedor **Full-S
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
+---
 
 ## 📊 Minhas Estatísticas
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-estrela&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-estrela&layout=compact&theme=tokyonight" />
+  <!-- Cartão de Visão Geral -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-estrela&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas Gerais de Ezequiel" />
+  <!-- Cartão de Linguagens Mais Usadas -->
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-estrela&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas por Ezequiel" />
 </p>
 
 ---
