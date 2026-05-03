@@ -1,4 +1,4 @@
-## # Olá 👋, eu sou o Ezequiel
+# Olá 👋, eu sou o Ezequiel
 
 🚀 **Estudante de Engenharia de Software | JavaScript, Python & Java**  
 🇧🇷 Mauá, São Paulo
@@ -53,23 +53,15 @@ Estou em transição de carreira, focando em me tornar um desenvolvedor **Full-S
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
----
-
-## 📊 Minhas Estatísticas
-
-<p align="left">
-  <!-- Cartão de Visão Geral -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ezequiel-estrela&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas Gerais de Ezequiel" />
-  <!-- Cartão de Linguagens Mais Usadas -->
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ezequiel-estrela&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas por Ezequiel" />
-</p>
-
----
 
 ## 🚀 Filosofia
 
 > _"O aprendizado contínuo é a única ferramenta capaz de transformar código em soluções reais."_
 
 ---
+
+## 📂 Projetos e Estudos
+
+No momento, estou me dedicando a criar e organizar meus primeiros repositórios de projetos da faculdade (Uninter) e estudos pessoais. Em breve, você poderá conferi-los por aqui!
 
 🤝 Aberto a colaborações em projetos de código aberto e parcerias de estudo!
